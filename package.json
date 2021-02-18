@@ -1,0 +1,13 @@
+{
+  "name": "commitlint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eoet/commitlint-config.git",
+  "author": "Hiep Nguyen <hoanghiep2004hy@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "conventional-changelog",
+    "commitlint",
+    "commitlint-config"
+  ]
+}
