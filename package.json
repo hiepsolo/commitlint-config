@@ -1,6 +1,6 @@
 {
   "name": "@eoet/commitlint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/eoet/commitlint-config.git",
   "author": "Hiep Nguyen <hoanghiep2004hy@gmail.com>",
