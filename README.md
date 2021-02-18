@@ -4,12 +4,12 @@
 
 **yarn**
 ```sh
-yarn add --dev @commitlint/cli @episerver/commitlint-config
+yarn add --dev @commitlint/cli @eoet/commitlint-config
 ```
 
 **npm**
 ```sh
-npm install --save-dev @commitlint/cli @episerver/commitlint-config
+npm install --save-dev @commitlint/cli @eoet/commitlint-config
 ```
 
 ## Usage
